@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330132786283",
+    "project_id": "jyotish-guru-1710",
+    "storage_bucket": "jyotish-guru-1710.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330132786283:android:308590a2bc96ae67c5f52e",
+        "android_client_info": {
+          "package_name": "com.example.palmistry_palmist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcloShmTNbNAzlxXE7EgdjAwQYGR-ZkcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
